@@ -1,0 +1,13 @@
+
+			.mfilter-counter {
+				background: #fff;
+				color: #ffffff;
+			}
+			.mfilter-counter:after {
+				border-right-color: #fff;
+			}
+		
+				.mfilter-search #mfilter-opts-search_button {
+					background-color: #428bca;
+				}
+			
